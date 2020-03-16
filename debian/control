@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: OpenContrail developers <dev@lists.opencontrail.org>
 Build-Depends: debhelper (>= 9), javahelper
 Standards-Version: 3.9.3
-Homepage: https://github.com/Juniper/vijava.git
+Homepage: https://github.com/tungstenfabric/tf-vijava.git
 
 Package: libcontrail-vijava
 Architecture: all

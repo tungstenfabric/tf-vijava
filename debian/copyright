@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: contrail-heat
-Source: https://github.com/Juniper/vijava
+Source: https://github.com/tungstenfabric/tf-vijava
 
 Files: debian/*
 Copyright: (c) 2014, Juniper Networks
